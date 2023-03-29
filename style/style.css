@@ -114,5 +114,9 @@ a:hover {
     .main-content p {
         font-size: 2.8vh;
 }
+
+    .main-title {
+        width: 30%;
+    }
 }
 /* fim responsividade ------------------------------------------------------------------------*/
