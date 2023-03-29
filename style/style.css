@@ -118,5 +118,13 @@ a:hover {
     .main-title {
         width: 30%;
     }
+
+    .main-title p {
+        display: none;
+    }
+
+    .title {
+        font-size: 2vh;
+    }
 }
 /* fim responsividade ------------------------------------------------------------------------*/
