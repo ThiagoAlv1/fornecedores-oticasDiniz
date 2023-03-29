@@ -6,6 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    line-height: 1.4em;
 }
 /* final zerando css ------------------------------------------------------------------------*/
 
@@ -22,6 +23,7 @@ li {
 
 h2 {
     font-size: 3vh;
+    text-decoration: underline;
 }
 
 h2, h1 {
